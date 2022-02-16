@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maria
 - 👀 I’m interested in games and technology
-- 🌱 I’m currently learning books that made me cry
 - 📫 I'm on instagram @macrohotline
 
 <!---
