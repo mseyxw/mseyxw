@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mseyxw">
-  <img width="45% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mseyxw&layout=compact&langs_count=7&tokyo=night"/>
+  <img width="45% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mseyxw&layout=compact&langs_count=7&tokyo_night"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
