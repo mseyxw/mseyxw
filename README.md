@@ -1,11 +1,5 @@
 ## Olá, mundo :)
 
-<div>
-<img width=40% align="center" src="https://github-readme-stats-git-main-mseyxw.vercel.app/api/top-langs/?username=mseyxw&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-## 
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Maria-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Maria-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
