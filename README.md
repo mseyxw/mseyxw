@@ -1,7 +1,7 @@
 ## Olá, mundo :)
 
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mseyxw)](https://github.com/mseyxw/github-readme-stats)
 </div>
 
 ## 
