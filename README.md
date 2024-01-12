@@ -1,4 +1,4 @@
-## Olá, mundo!
+## Olá, mundo :)
 
 <div align="center">
   <a href="https://github.com/mseyxw">
