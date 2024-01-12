@@ -1,7 +1,7 @@
 ## Olá, mundo :)
 
 <p>
-  Meu nome é Maria, e estou começando na área de Ciência de Dados. Sou completamente apaixonada por Tecnologia desde que comecei o meu Ensino Médio Integrado ao Técnico em Informática no Instituto Federal Goiano.
+  Meu nome é Maria, me interessei por Tecnologia desde que fiz o meu Ensino Médio Integrado ao Técnico em Informática no Instituto Federal Goiano. Atualmente estou cursando Sistemas de Informação e me aprofundando na área de Ciência de Dados.
 </p>
 
 <div  align="center" style="margin-bottom:100px">
