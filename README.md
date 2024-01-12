@@ -4,6 +4,8 @@
   Meu nome é Maria, me interessei por Tecnologia desde que fiz o meu Ensino Médio Integrado ao Técnico em Informática no Instituto Federal Goiano. Atualmente estou cursando Sistemas de Informação e me aprofundando na área de Ciência de Dados.
 </p>
 
+##
+
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mseyxw&show_icons=true&theme=radical&layout=compact"/>
 </div>
